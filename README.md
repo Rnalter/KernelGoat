@@ -17,3 +17,4 @@ KernelGoat is a "Vulnerable by Design" kernel environment to learn and practice 
 ## TBD
 
 - Intel or Arm assembly, maybe both
+- Any scenarios with Rust?
