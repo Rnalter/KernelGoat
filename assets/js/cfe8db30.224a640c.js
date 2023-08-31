@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkguide=self.webpackChunkguide||[]).push([[1636],{9831:e=>{e.exports=JSON.parse('{"permalink":"/KernelGoat/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
