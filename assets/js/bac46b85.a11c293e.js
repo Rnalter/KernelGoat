@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguide=self.webpackChunkguide||[]).push([[4127],{1800:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/KernelGoat/blog/tags/hola","allTagsPath":"/KernelGoat/blog/tags","count":1}')}}]);
