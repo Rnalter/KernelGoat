@@ -1,0 +1,1 @@
+cmd_/home/archana/Desktop/sample/sample.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/archana/Desktop/sample/sample.ko /home/archana/Desktop/sample/sample.o /home/archana/Desktop/sample/sample.mod.o;  true

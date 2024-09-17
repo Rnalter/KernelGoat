@@ -1,0 +1,1 @@
+cmd_/home/archana/Desktop/sample/Module.symvers := sed 's/\.ko$$/\.o/' /home/archana/Desktop/sample/modules.order | scripts/mod/modpost -m -a  -o /home/archana/Desktop/sample/Module.symvers -e -i Module.symvers   -T -
