@@ -1,0 +1,1 @@
+cmd_/home/sujitha/Desktop/sampleprog/2.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/sujitha/Desktop/sampleprog/2.ko /home/sujitha/Desktop/sampleprog/2.o /home/sujitha/Desktop/sampleprog/2.mod.o;  true

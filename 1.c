@@ -13,5 +13,5 @@ hello_exit(void){
 module_init(hello_init);
 module_exit(hello_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("DIVYA");
+MODULE_AUTHOR("Sujitha");
 MODULE_DESCRIPTION("A SIMPLE PROGRAM");
