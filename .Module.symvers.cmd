@@ -1,0 +1,1 @@
+cmd_/home/archana/Desktop/heap2/Module.symvers := sed 's/\.ko$$/\.o/' /home/archana/Desktop/heap2/modules.order | scripts/mod/modpost -m -a  -o /home/archana/Desktop/heap2/Module.symvers -e -i Module.symvers   -T -
