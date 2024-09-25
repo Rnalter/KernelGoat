@@ -11,7 +11,7 @@ ssize_t vulnerable_function(const char __user *user_buffer, size_t len) {
 
     // Vulnerability: len is unchecked and may be larger than BUFFER_SIZE
     if (len > BUFFER_SIZE) {
-        pr_alert("Warning: Attempt to copy more data than buffer size.\n");
+        pr_alert("Warning: Attempt to copy more data than buffer size...\n");
         return -EINVAL; // Return an error
     }
 
