@@ -1,41 +1,16 @@
-# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+# KernelGoat
+KernelGoat is a "Vulnerable by Design" kernel environment to learn and practice Linux Kernel security issues
+## Rough plan
+- Writing linux kernel drivers which are vulnerable to 
+   - stack buffer overflow
+   - heap overflow
+   - race conditions
+   - Null Pointer dereference
+   - to be added ...
+ 
+ - Vulnerable Kernel driver to be pre-installed in docker images, so the practioner just needs to spin up the container, and focus on exploitation rather than putting effort on setup
+ 
+ - Guide hosted on Gitbooks or Docusaurus for hints/diagrams and solutions
+## TBD
+- Intel or Arm assembly, maybe both
+- Any scenarios with Rust?
