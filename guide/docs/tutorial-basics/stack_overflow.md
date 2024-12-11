@@ -25,3 +25,10 @@ Preventing Stack Buffer Overflows
 •	Use modern languages like Python, Java, or Rust, which handle memory management automatically and offer strong safety guarantees.
 Conclusion
 Stack buffer overflow vulnerabilities have led to some of the most significant security breaches in computing history. Developers must understand how these vulnerabilities occur and implement preventive measures such as input validation, safer coding practices, and enabling compiler-based security features. By following best practices and leveraging modern development tools, developers can create more secure software and mitigate the risks posed by stack buffer overflows.
+You can use absolute paths to reference images in the static directory (`static/img/stack_overflow.jpg`):
+
+```md
+![Docusaurus logo](/img/stack_overflow.jpg)
+```
+
+![Docusaurus logo](/img/stack_overflow.jpg)
