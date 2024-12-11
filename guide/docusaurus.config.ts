@@ -13,12 +13,12 @@ const config: Config = {
   url: 'https://rnalter.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/kernelgoat/',
+  baseUrl: '/KernelGoat/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'rnalter', // Usually your GitHub org/user name.
-  projectName: 'kernelgoat', // Usually your repo name.
+  organizationName: 'Rnalter', // Usually your GitHub org/user name.
+  projectName: 'KernelGoat', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
