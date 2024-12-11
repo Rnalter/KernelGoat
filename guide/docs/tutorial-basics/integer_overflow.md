@@ -26,3 +26,10 @@ Real-World Examples
 •	NASA Mars Climate Orbiter Failure: A catastrophic mission failure due to incorrect unit conversions related to integer handling.
 Conclusion
 Integer overflow is a critical vulnerability that can disrupt software functionality, compromise data integrity, and create severe security risks. Understanding its causes, implications, and prevention techniques helps developers design more resilient software systems. Employing safe programming practices, leveraging compiler warnings, and using specialized libraries are essential steps toward mitigating this issue.
+You can use absolute paths to reference images in the static directory (`static/img/integer_overflow.jpg`):
+
+```md
+![Docusaurus logo](/img/integer_overflow.jpg)
+```
+
+![Docusaurus logo](/img/integer_overflow.jpg)
