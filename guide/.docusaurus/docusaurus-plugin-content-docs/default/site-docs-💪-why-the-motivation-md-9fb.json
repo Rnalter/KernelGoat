@@ -1,0 +1,20 @@
+{
+  "id": "💪 Why - The Motivation",
+  "title": "💪 Why - The Motivation",
+  "description": "Now why this project ?Motivation",
+  "source": "@site/docs/💪 Why - The Motivation.md",
+  "sourceDirName": ".",
+  "slug": "/💪 Why - The Motivation",
+  "permalink": "/KernelGoat/docs/💪 Why - The Motivation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/💪 Why - The Motivation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/KernelGoat/docs/tutorial-extras/translate-your-site"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/KernelGoat/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/KernelGoat/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "💪 Why - The Motivation",
+              "path": "/KernelGoat/docs/💪 Why - The Motivation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/KernelGoat/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/KernelGoat/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/KernelGoat/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/KernelGoat/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/KernelGoat/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/KernelGoat/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/heap_overflow",
+              "path": "/KernelGoat/docs/tutorial-basics/heap_overflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/integer_overflow",
+              "path": "/KernelGoat/docs/tutorial-basics/integer_overflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/KernelGoat/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/NullPointerDereference",
+              "path": "/KernelGoat/docs/tutorial-basics/NullPointerDereference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/stack_overflow",
+              "path": "/KernelGoat/docs/tutorial-basics/stack_overflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Use-After-Free",
+              "path": "/KernelGoat/docs/tutorial-basics/Use-After-Free",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/KernelGoat/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/KernelGoat/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/KernelGoat/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/KernelGoat/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/KernelGoat/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/stack_overflow",
+  "title": "stack_overflow",
+  "description": "Introduction",
+  "source": "@site/docs/tutorial-basics/stack_overflow.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/stack_overflow",
+  "permalink": "/KernelGoat/docs/tutorial-basics/stack_overflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/stack_overflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integer_overflow",
+    "permalink": "/KernelGoat/docs/tutorial-basics/integer_overflow"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/KernelGoat/docs/category/tutorial---extras"
+  }
+}

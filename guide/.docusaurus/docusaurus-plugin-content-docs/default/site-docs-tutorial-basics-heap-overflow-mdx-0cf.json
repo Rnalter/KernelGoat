@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/heap_overflow",
+  "title": "heap_overflow",
+  "description": "Introduction",
+  "source": "@site/docs/tutorial-basics/heap_overflow.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/heap_overflow",
+  "permalink": "/KernelGoat/docs/tutorial-basics/heap_overflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Rnalter/KernelGoat/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/heap_overflow.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/KernelGoat/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/KernelGoat/docs/category/tutorial---extras"
+  }
+}
