@@ -1,4 +1,4 @@
-# Understanding Heap Overflow
+# Heap Overflow
 
 ## Introduction
 
