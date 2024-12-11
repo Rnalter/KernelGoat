@@ -1,4 +1,4 @@
-# Null Pointer Dereference: A Critical Programming Flaw
+# Null Pointer Dereference
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Null pointer dereference is a critical programming flaw that occurs when a progr
 
 ## Block Diagram of Null Pointer Dereference Architecture
 
-![Null Pointer Dereference](img/null_pointer.jpg)
+![Docusaurus logo](/img/null_pointer.jpg)
 
 ## Steps to Prevent Null Pointer Dereference
 
