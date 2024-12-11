@@ -1,47 +1,19 @@
----
-sidebar_position: 1
----
-
 # Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **KernelGoat**, a purpose-built learning platform for understanding and experimenting with common vulnerabilities in Linux kernel modules. This project is designed for security researchers, enthusiasts, and students to gain hands-on experience in exploiting and analyzing kernel vulnerabilities in a controlled environment.
 
-## Getting Started
+KernelGoat includes five distinct kernel modules, each demonstrating a specific vulnerability. These modules are intentionally crafted to illustrate the concepts behind these issues, making it easier to learn their real-world implications and remediation techniques. 
 
-Get started by **creating a new site**.
+The vulnerabilities included in KernelGoat are:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **Stack Buffer Overflow**: Exploits improper bounds checking in stack memory operations.
+- **Heap Overflow**: Demonstrates unsafe memory management in dynamic memory allocation.
+- **Null Pointer Dereference**: Highlights the risks of dereferencing uninitialized or null memory addresses.
+- **Integer Overflow**: Explores how arithmetic errors can lead to memory and logic corruption.
+- **Use-After-Free (UAF)**: Shows the dangers of accessing memory that has already been deallocated.
 
-### What you'll need
+Each module is accompanied by detailed documentation to explain the underlying mechanics of the vulnerability, along with practical examples to aid in your learning journey.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+> **Warning**: KernelGoat is strictly for educational and research purposes. Exercise caution when working with these vulnerabilities, as improper handling could affect the host system.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Explore the vulnerabilities to deepen your understanding of Linux kernel security and the critical role of secure coding practices.
