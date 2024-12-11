@@ -6,3 +6,4 @@ Memory Allocation Basics
 •	Manual Management: Developers must manually allocate and free heap memory, increasing the risk of misuse.
 What is a Heap Overflow?
 A heap overflow occurs when a program writes beyond the allocated memory boundaries in the heap. This typically happens due to incorrect buffer size management, lack of boundary checks, or user input exceeding expected limits. The excess data spills over into adjacent memory locations, potentially overwriting important program data or code.
+('static/img/heap_overflow.jpg'):
