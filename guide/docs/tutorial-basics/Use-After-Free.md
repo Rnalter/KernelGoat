@@ -5,7 +5,13 @@ The Linux kernel frequently allocates and frees memory using allocators such as 
 How Exploits Occur
 UAF vulnerabilities enable attackers to manipulate freed memory through techniques like heap spraying, arbitrary code execution, and privilege escalation. After memory is deallocated, attackers can inject malicious payloads into the now-available memory segments, potentially gaining unauthorized kernel-level access.
 
-(`static/img/use after free.jpg`):
+(`static/img/use_after_free.jpg`):
+
+```md
+![Docusaurus logo](/img/use_after_free.jpg)
+```
+
+![Docusaurus logo](/img/use_after_free.jpg)
 
 Defensive Strategies
 To mitigate UAF risks, the Linux kernel employs several defensive mechanisms:
